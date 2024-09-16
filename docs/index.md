@@ -7,42 +7,49 @@ Uno de los animes más icónicos, **Naruto** sigue la historia de un joven ninja
 
 - **Género**: Aventura, Acción, Shonen
 - **Enlace**: [Naruto en Crunchyroll](https://www.crunchyroll.com/naruto)
-- ![Naruto](https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg)
+
+  ![Naruto](https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg)
 
 ## 2. **One Piece**
 **One Piece** sigue las aventuras de Monkey D. Luffy y su tripulación de piratas en la búsqueda del legendario tesoro, el One Piece. Es una de las series más largas y exitosas en la historia del anime, con una combinación única de comedia, acción y drama.
 
 - **Género**: Aventura, Acción, Fantasía
 - **Enlace**: [One Piece en Crunchyroll](https://www.crunchyroll.com/one-piece)
-- ![One Piece](https://upload.wikimedia.org/wikipedia/en/thumb/7/76/OnePiece85Cover.png/220px-OnePiece85Cover.png)
+
+  ![One Piece](https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg)
 
 ## 3. **Attack on Titan (Shingeki no Kyojin)**
 **Attack on Titan** se ha convertido en un fenómeno mundial por su trama oscura y madura. La serie trata de la lucha de la humanidad contra los titanes, monstruos gigantes que devoran humanos. Es conocido por su animación espectacular y su intrincada narrativa.
 
 - **Género**: Acción, Drama, Horror
 - **Enlace**: [Attack on Titan en Funimation](https://www.funimation.com/shows/attack-on-titan/)
-- ![Attack on Titan](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Attack_on_Titan_-_Volume_1.jpg/220px-Attack_on_Titan_-_Volume_1.jpg)
+
+  ![Attack on Titan](https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg)
 
 ## 4. **My Hero Academia (Boku no Hero Academia)**
 **My Hero Academia** nos presenta un mundo donde la mayoría de las personas tiene superpoderes, llamados *quirks*, y sigue la vida de un joven sin poderes que sueña con ser un héroe. La serie se ha convertido en un favorito tanto para el público juvenil como adulto.
 
 - **Género**: Acción, Comedia, Shonen
 - **Enlace**: [My Hero Academia en Crunchyroll](https://www.crunchyroll.com/my-hero-academia)
-- ![My Hero Academia](https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/My_Hero_Academia_Volume_1.jpg/220px-My_Hero_Academia_Volume_1.jpg)
+
+  ![My Hero Academia](https://upload.wikimedia.org/wikipedia/en/5/5a/Boku_no_Hero_Academia_Volume_1.png)
+
 
 ## 5. **Demon Slayer (Kimetsu no Yaiba)**
 **Demon Slayer** ha sido un éxito rotundo, con una calidad de animación increíble. La historia sigue a Tanjiro Kamado, un joven que se convierte en cazador de demonios después de que su familia es asesinada por uno de ellos. Con una narrativa emotiva y combates impresionantes, es un must-watch.
 
 - **Género**: Acción, Fantasía, Sobrenatural
 - **Enlace**: [Demon Slayer en Crunchyroll](https://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba)
-- ![Demon Slayer](https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Demon_Slayer_-_Kimetsu_no_Yaiba%2C_Volume_1.jpg/220px-Demon_Slayer_-_Kimetsu_no_Yaiba%2C_Volume_1.jpg)
+
+  ![Demon Slayer](https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Demon_Slayer_-_Kimetsu_no_Yaiba%2C_volume_1.jpg/220px-Demon_Slayer_-_Kimetsu_no_Yaiba%2C_volume_1.jpg)
 
 ## 6. **Dragon Ball Z**
 Un clásico entre clásicos, **Dragon Ball Z** sigue las aventuras de Goku mientras lucha contra poderosos enemigos para salvar la Tierra. Su influencia en la cultura pop global es inmensa, y sigue siendo uno de los animes más queridos.
 
 - **Género**: Acción, Aventura, Artes Marciales
 - **Enlace**: [Dragon Ball Z en Crunchyroll](https://www.crunchyroll.com/dragon-ball-z)
-- ![Dragon Ball Z](https://upload.wikimedia.org/wikipedia/en/3/3c/DBZ_volume_1_DVD_cover.jpg)
+
+  <img src="https://fr.web.img4.acsta.net/medias/nmedia/18/97/32/51/20531876.jpg" width="300">
 
 ---
 
